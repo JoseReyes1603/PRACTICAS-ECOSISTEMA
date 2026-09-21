@@ -19,6 +19,7 @@ El objetivo de este proyecto es automatizar el reconocimiento de campo de organi
 
 
 ## Código
+[blueprint.json](./blueprint.json)
 
 
 
