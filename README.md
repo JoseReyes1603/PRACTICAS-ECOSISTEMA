@@ -23,9 +23,7 @@ El objetivo de este proyecto es automatizar el reconocimiento de campo de organi
 
 
 ## Video del funcionamiento
-https://youtube.com/shorts/CDEY1mLPeto?feature=share
-
-[Ver video en YouTube](https://youtube.com/shorts/op4nnYcA8Ng?feature=share)
+[Ver video en YouTube](https://youtube.com/shorts/CDEY1mLPeto?feature=share)
 
 ## Resultados
 
