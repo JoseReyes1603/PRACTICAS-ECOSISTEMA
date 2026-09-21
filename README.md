@@ -19,7 +19,7 @@ El objetivo de este proyecto es automatizar el reconocimiento de campo de organi
 
 ## Código
 
-```json
+
 
 ## Video del funcionamiento
 
