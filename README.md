@@ -26,6 +26,5 @@ El objetivo de este proyecto es automatizar el reconocimiento de campo de organi
 [Ver video en YouTube](https://youtube.com/shorts/CDEY1mLPeto?feature=share)
 
 ## Resultados
-
-[https://www.google.com/url?sa=E&source=gmail&q=https://drive.google.com/file/d/1hVAEnLIs9dwElO8hZ47nfIvId0YkBo6y/view?usp=drive_web)
+file:///C:/Users/reyes/Downloads/Reporte%20de%20Resultados%20-%20Escenario%20Ecosistema.pdf
 
