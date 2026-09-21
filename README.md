@@ -1,1 +1,33 @@
-# PRACTICAS-ECOSISTEMA
+# PRACTICAS-ECOSISTEMA# Escenario "Ecosistema": Identificación de Organismos con IA y Telegram
+
+Identificación automática de organismos del jardín del Tecnológico mediante fotografía, Telegram y un Agente de Inteligencia Artificial en Make.com.
+
+## Descripción
+
+El objetivo de este proyecto es automatizar el reconocimiento de campo de organismos (productores, consumidores y descomponedores) dentro de la materia de Desarrollo Sustentable con Automatización. El estudiante envía una fotografía desde el jardín del campus a un bot de Telegram; un Agente de IA configurado en Make.com analiza la imagen y responde en tiempo real con el nombre del organismo, su nivel trófico y su función en el ecosistema.
+
+## Objetivos de aprendizaje
+
+* Diseñar y configurar una automatización en Make.com que procese imágenes enviadas a un bot de Telegram.
+* Aplicar visión por computadora mediante el módulo **Make AI Agent** para clasificar organismos vivos y su rol trófico.
+* Implementar control de flujo con un **Router** y filtros condicionales para discriminar mensajes con y sin imagen.
+* Documentar técnicamente la arquitectura y variables clave del escenario para su trazabilidad y evaluación.
+
+## Imagenes
+
+<img width="800" alt="Vista general del escenario Ecosistema en Make.com" src="https://github.com/user-attachments/assets/tu-imagen-aqui.png" />
+
+## Código
+
+```json
+
+## Video del funcionamiento
+
+[Readme](ruta/a/tu/archivo)
+
+[Ver video en YouTube](https://youtube.com/shorts/op4nnYcA8Ng?feature=share)
+
+## Resultados
+
+[https://www.google.com/url?sa=E&source=gmail&q=https://drive.google.com/file/d/1hVAEnLIs9dwElO8hZ47nfIvId0YkBo6y/view?usp=drive_web)
+
