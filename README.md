@@ -15,7 +15,7 @@ El objetivo de este proyecto es automatizar el reconocimiento de campo de organi
 
 ## Imagenes
 
-<img width="800" alt="Vista general del escenario Ecosistema en Make.com" src="https://github.com/user-attachments/assets/<img width="500" height="300" alt="Captura make ecosistema" src="https://github.com/user-attachments/assets/360ebfd9-fa47-43c9-91f7-da1d2e313062" />
+<img width="500" height="300" alt="Captura make ecosistema" src="https://github.com/user-attachments/assets/360ebfd9-fa47-43c9-91f7-da1d2e313062" />
 " />
 
 ## Código
