@@ -19,7 +19,7 @@ El objetivo de este proyecto es automatizar el reconocimiento de campo de organi
 
 
 ## Código
-[Blueprint Ecosistema.json](./Blueprint%20Ecosistema.json)
+[Blueprint Ecosistema.json](./Codigo/Blueprint%20Ecosistema.json)
 
 
 
