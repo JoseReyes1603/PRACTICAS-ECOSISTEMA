@@ -16,14 +16,14 @@ El objetivo de este proyecto es automatizar el reconocimiento de campo de organi
 ## Imagenes
 
 <img width="500" height="300" alt="Captura make ecosistema" src="https://github.com/user-attachments/assets/360ebfd9-fa47-43c9-91f7-da1d2e313062" />
-" />
+
 
 ## Código
 
 
 
 ## Video del funcionamiento
-
+https://youtube.com/shorts/CDEY1mLPeto?feature=share
 
 [Ver video en YouTube](https://youtube.com/shorts/op4nnYcA8Ng?feature=share)
 
