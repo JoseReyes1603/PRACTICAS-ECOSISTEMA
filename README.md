@@ -15,7 +15,8 @@ El objetivo de este proyecto es automatizar el reconocimiento de campo de organi
 
 ## Imagenes
 
-<img width="500" height="300" alt="Captura make ecosistema" src="https://github.com/user-attachments/assets/360ebfd9-fa47-43c9-91f7-da1d2e313062" />
+<img width="960" height="1280" alt="Imagen sensor de temperatura" src="https://github.com/user-attachments/assets/25a9de85-45b2-469d-b7cd-fcc5af602567" />
+
 
 
 ## Código
